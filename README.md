@@ -14,7 +14,7 @@ My recent work spans NLP applications, MLOps, LLM orchestration, and data pipeli
         <img src="./assets/linkedin.png" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="https://www.mingjiewong.com/">
-        <img src="./assets/favicon.svg" alt="Homepage" width="35" height="35"/>
+        <img src="./assets/favicon.ico" alt="Homepage" width="35" height="35"/>
     </a>
 </div>
 
